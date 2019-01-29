@@ -1,0 +1,494 @@
+{
+	"repos": [
+		{
+			"name": "Sudoku Solver",
+			"tags": ["just for fun", "games"],
+			"description": "Solve Sudoku puzzles.",
+			"repo": "https://github.com/Pamblam/sudoku_solver",
+			"website": "",
+			"type": "web apps",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "Tab Composer",
+			"tags": ["music", "utility"],
+			"description": "Compose guitar tabs.",
+			"repo": "https://github.com/Pamblam/tab-composer",
+			"website": "https://pamblam.github.io/tab-composer/public_html/",
+			"type": "web apps",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "Fretted",
+			"tags": ["music"],
+			"description": "Create fretboard diagrams for chords and scales.",
+			"repo": "https://github.com/Pamblam/Fretted",
+			"website": "https://pamblam.github.io/Fretted",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Universal Encoder",
+			"tags": ["encode", "math"],
+			"description": "Encode any string or number to any base using any charset.",
+			"repo": "https://github.com/Pamblam/Universal-Encoder",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Official Jeff Goldblum Firefox Plugin",
+			"tags": ["jeff goldblum", "obnoxious"],
+			"description": "Prank your parents! Suck all the fun out of Imgur! Confuse the hell out of anyone that uses Firefox!",
+			"repo": "https://github.com/Pamblam/Official-Jeff-Goldblum-Firefox-Plugin",
+			"website": "https://addons.mozilla.org/en-US/firefox/addon/goldblumify/",
+			"type": "browser plugin",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "CalendarJS",
+			"tags": ["time", "date", "calendar"],
+			"description": "Responsive monthly calendar widget.",
+			"repo": "https://github.com/Pamblam/CalendarJS",
+			"website": "https://pamblam.github.io/CalendarJS/",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Tamper Data for FF Quantum",
+			"tags": ["dev tools"],
+			"description": "Capture http requests in the browser.",
+			"repo": "https://github.com/Pamblam/Tamper-Data-for-FF-Quantum",
+			"website": "https://addons.mozilla.org/en-US/firefox/addon/tamper-data-for-ff-quantum/",
+			"type": "browser plugin",
+			"logo": "https://i.imgur.com/qkJvAQO.png",
+			"finished": true
+		},
+		{
+			"name": "GoLife",
+			"tags": ["games"],
+			"description": "Full featured Cellular automata app. (Conway's Game of Life)",
+			"repo": "https://github.com/Pamblam/Go-Life",
+			"website": "https://pamblam.github.io/Go-Life/",
+			"type": "web apps",
+			"logo": "https://pamblam.github.io/Go-Life/assets/img/logo-full.png",
+			"finished": true
+		},
+		{
+			"name": "Brower-Mirror PHP API",
+			"tags": ["utility"],
+			"description": "PHP API for Browser-Mirror",
+			"repo": "https://github.com/Pamblam/bm-php-api",
+			"website": "",
+			"type": "library",
+			"logo": "https://raw.githubusercontent.com/Pamblam/bm-php-api/master/logo.png",
+			"finished": true
+		},
+		{
+			"name": "Reddit Cleaner",
+			"tags": ["utility"],
+			"description": "Delete all comments with a negative score.",
+			"repo": "https://github.com/Pamblam/reddit-cleaner",
+			"website": "",
+			"type": "utility",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Browser-Mirror",
+			"tags": ["utility"],
+			"description": "Mirror actions on a webpage remotely. Useful for website support applications.",
+			"repo": "https://github.com/Pamblam/browser-mirror",
+			"website": "",
+			"type": "utility",
+			"logo": "https://camo.githubusercontent.com/7a0cc3629b5511c9c5bd42788aa757b3b8b18f7c/68747470733a2f2f692e696d6775722e636f6d2f52323936364c612e706e67",
+			"finished": true
+		},
+		{
+			"name": "SNEK",
+			"tags": ["games"],
+			"description": "Classic SNAKE game with modern features.",
+			"repo": "https://github.com/Pamblam/snek",
+			"website": "https://pamblam.github.io/snek/",
+			"type": "web apps",
+			"logo": "https://camo.githubusercontent.com/9356cad759669f6e576b3a5876c40c820fc91b34/68747470733a2f2f692e696d6775722e636f6d2f6a3935477046592e706e67",
+			"finished": true
+		},
+		{
+			"name": "Mine sweeper",
+			"tags": ["games"],
+			"description": "The old Minesweeper game.",
+			"repo": "https://github.com/Pamblam/minesweeper",
+			"website": "https://pamblam.github.io/minesweeper/",
+			"type": "web apps",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "HTTP",
+			"tags": ["http", "php"],
+			"description": "A fairly simple HTTP client using native PHP functions (no cURL).",
+			"repo": "https://github.com/Pamblam/HTTP",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "HTTP",
+			"tags": ["http", "php"],
+			"description": "Simple JSON Web Token implementation in PHP.",
+			"repo": "https://github.com/Pamblam/tinyJWT",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Zoomable",
+			"tags": ["zoom", "image"],
+			"description": "Make images zoomable/magnifiable.",
+			"repo": "https://github.com/Pamblam/zoomable",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Node API Template",
+			"tags": ["zoom", "image"],
+			"description": "Starting point for making Node APIs",
+			"repo": "https://github.com/Pamblam/node-api-template",
+			"website": "",
+			"type": "snippet",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Crawler",
+			"tags": ["crawler", "utility", "scraper"],
+			"description": "A web crawler that can log into a website.",
+			"repo": "https://github.com/Pamblam/Crawler/tree/612baf4eedcb23df3a3e333d6c03855d6922b735",
+			"website": "http://pamblam.github.io/Crawler/",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "MySQL Import",
+			"tags": ["utility", "library"],
+			"description": "Node package for importing database to MySQL",
+			"repo": "https://github.com/Pamblam/mysql-import",
+			"website": "",
+			"type": "library",
+			"logo": "https://i.imgur.com/AOfuTLA.png",
+			"finished": true
+		},
+		{
+			"name": "Protodate",
+			"tags": ["library"],
+			"description": "Better, faster, stronger Javascript Dates",
+			"repo": "https://github.com/Pamblam/protodate",
+			"website": "https://pamblam.github.io/protodate",
+			"type": "library",
+			"logo": "https://i.imgur.com/rwU5zSL.png",
+			"finished": true
+		},
+		{
+			"name": "Number.SE",
+			"tags": ["library", "math"],
+			"description": "Math library using string encoded numbers.",
+			"repo": "https://github.com/Pamblam/number.se",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "Fret Frend",
+			"tags": ["music"],
+			"description": "Generate chord and scale charts for any stringed instrument.",
+			"repo": "https://github.com/Pamblam/Fret-Friend",
+			"website": "https://pamblam.github.io/Fret-Friend/",
+			"type": "web apps",
+			"logo": "https://i.imgur.com/cbCAWCC.png",
+			"finished": true
+		},
+		{
+			"name": "Voicings",
+			"tags": ["music"],
+			"description": "Generate voicings for any chord on any stringed instrument.",
+			"repo": "https://github.com/Pamblam/Voicings",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Musicology",
+			"tags": ["music"],
+			"description": "Generate scales and chords in any key and mode.",
+			"repo": "https://github.com/Pamblam/Musicology",
+			"website": "https://pamblam.github.io/Musicology/",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Rage Quit",
+			"tags": ["reddit"],
+			"description": "Rage quit reddit & delete all your posts and comments.",
+			"repo": "https://github.com/Pamblam/rage-quit",
+			"website": "",
+			"type": "utility",
+			"logo": "https://camo.githubusercontent.com/7607c89bcb0171bf73a099064ef9431f58d34c5d/68747470733a2f2f692e696d6775722e636f6d2f6c4154755569772e6a7067",
+			"finished": true
+		},
+		{
+			"name": "fileUpload",
+			"tags": ["jQuery"],
+			"description": "A jQuery plugin for file uploading or client side file reading.",
+			"repo": "https://github.com/Pamblam/fileUpload",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "jSQL",
+			"tags": ["sql"],
+			"description": "Persistent SQL database for the browser or node.",
+			"repo": "https://github.com/Pamblam/jSQL",
+			"website": "http://pamblam.github.io/jSQL/",
+			"type": "library",
+			"logo": "https://camo.githubusercontent.com/a1ff08978f5314a53109bf58d5f9694892c2f8d2/687474703a2f2f692e696d6775722e636f6d2f56516c4a4b4f632e706e67",
+			"finished": true
+		},
+		{
+			"name": "php DataTables",
+			"tags": ["datatables", "mysql"],
+			"description": "Small wrapper for DataTables using PHP & MySQL as data source.",
+			"repo": "https://github.com/Pamblam/phpDataTables",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "zipTime",
+			"tags": ["time", "location"],
+			"description": "Get the time in any zip code.",
+			"repo": "https://github.com/Pamblam/zipTime",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "OCI2PDO",
+			"tags": ["Oracle", "SQL"],
+			"description": "A complete wrapper for OCI8 that looks, feels, and smells like standard PDO.",
+			"repo": "https://github.com/Pamblam/OCI2PDO",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Methodus",
+			"tags": ["math"],
+			"description": "A Math Library inspired by Project Euler",
+			"repo": "https://github.com/Pamblam/Methodus",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Bros-Keeper",
+			"tags": ["utility"],
+			"description": "A fancy to-do list",
+			"repo": "https://github.com/Pamblam/Bros-Keeper",
+			"website": "",
+			"type": "utility",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "jSQL Devel",
+			"tags": ["utility"],
+			"description": "A plugin/bookarklet/app for deleoping with jSQL.",
+			"repo": "https://github.com/Pamblam/jsql-devel",
+			"website": "http://pamblam.github.io/jSQL/jsql-devel.html",
+			"type": "utility",
+			"logo": "http://i.imgur.com/VQlJKOc.png",
+			"finished": true
+		},
+		{
+			"name": "iLoveLAMP",
+			"tags": ["utility"],
+			"description": "A suite of LAMP tools",
+			"repo": "https://github.com/Pamblam/iLoveLAMP",
+			"website": "https://pamblam.github.io/iLoveLAMP/",
+			"type": "utility",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "EasyImage",
+			"tags": ["utility"],
+			"description": "Pure PHP Image generating library.",
+			"repo": "https://github.com/Pamblam/EasyImage",
+			"website": "http://pamblam.github.io/EasyImage/",
+			"type": "library",
+			"logo": "https://camo.githubusercontent.com/bf6639fcdf55dcfe4191c95d01398bc79373d921/687474703a2f2f692e696d6775722e636f6d2f4b5879464e71332e706e67",
+			"finished": true
+		},
+		{
+			"name": "XHRCreep",
+			"tags": ["utility"],
+			"description": "A complete wrapper for XMLHttpRequest that provides hooks to override and monitor method calls and events on XHR.",
+			"repo": "https://github.com/Pamblam/XHRCreep",
+			"website": "https://pamblam.github.io/XHRCreep/",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "ASearch",
+			"tags": ["utility"],
+			"description": "Universal advanced search plugin for Oracle or MySQL and PHP",
+			"repo": "https://github.com/Pamblam/ASearch",
+			"website": "http://pamblam.github.io/ASearch/",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "remoteTime",
+			"tags": ["jQuery", "date", "time", "location"],
+			"description": "Get the current time in any locaiton in the world",
+			"repo": "https://github.com/Pamblam/remoteTime",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Place Search",
+			"tags": ["jquery", "location"],
+			"description": "A jQuery plugin for looking for places.",
+			"repo": "https://github.com/Pamblam/placeSearch.js",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Dockyard",
+			"tags": ["utility"],
+			"description": "Code Documentation System ",
+			"repo": "https://github.com/Pamblam/Dockyard",
+			"website": "",
+			"type": "utility",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "EchoCanvas",
+			"tags": ["utility"],
+			"description": "frame and animation library using Canvas",
+			"repo": "https://github.com/Pamblam/EchoCanvas",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": false
+		},
+		{
+			"name": "Terminal",
+			"tags": ["utility"],
+			"description": "UI widget that looks sort of like a terminal",
+			"repo": "https://github.com/Pamblam/Terminal",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Log Manager",
+			"tags": ["utility"],
+			"description": "PHP Class for managing logs.",
+			"repo": "https://github.com/Pamblam/logManager",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Typewriter",
+			"tags": ["utility", "jQuery"],
+			"description": "A jQuery plugin that creates a typing cursor effect.",
+			"repo": "https://github.com/Pamblam/typewriter",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Doc Template",
+			"tags": ["utility"],
+			"description": "A simple template for a documentation web page (based on the PHP Manual)",
+			"repo": "https://github.com/Pamblam/DocTemplate",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Username Generator",
+			"tags": ["utility"],
+			"description": "Generate random unique human readable userames",
+			"repo": "https://github.com/Pamblam/username_generator",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "Guerrilla Mailer",
+			"tags": ["utility", "jquery"],
+			"description": "A jQuery wrapper library for GuerrillaMail's API. ",
+			"repo": "https://github.com/Pamblam/GuerrillaMailer",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "textChange",
+			"tags": ["utility", "jquery"],
+			"description": "A custom jQuery event for inputs and textareas. ",
+			"repo": "https://github.com/Pamblam/textChange",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		},
+		{
+			"name": "RotateBG",
+			"tags": ["utility", "jquery"],
+			"description": "Rotate and cross fade background images with this simple jQuery plugin.",
+			"repo": "https://github.com/Pamblam/RotateBG",
+			"website": "",
+			"type": "library",
+			"logo": "",
+			"finished": true
+		}
+	]
+}
